@@ -1,0 +1,22 @@
+# Data processing and numerical operations
+numpy
+pandas
+
+# Text processing and NLP
+contractions
+emoji
+ftfy
+nltk
+textstat
+tensorflow
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+matplotlib-inline
+
+# Keras (typically included with TensorFlow)
+keras
